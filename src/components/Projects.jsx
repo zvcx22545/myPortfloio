@@ -64,7 +64,7 @@ export default function Projects() {
                                 transition={{ duration: 0.5 }}
                                 className="glass-card p-8 rounded-2xl flex flex-col h-full w-full"
                             >
-                                <div className="h-64 bg-linear-to-br from-gray-800 to-gray-900 rounded-xl mb-6 flex items-center justify-center">
+                                <div className="h-64 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-xl mb-6 flex items-center justify-center border border-white/5">
                                     <span className="text-muted text-xl">Project Preview</span>
                                 </div>
 
